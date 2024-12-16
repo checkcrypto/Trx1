@@ -1,0 +1,6 @@
+aiohttp
+mnemonic
+bip32utils
+tronpy
+python-telegram-bot
+requests
